@@ -3,7 +3,7 @@
 
 ## Hi there my gorgeous friend 👋
 
-I'm Sazzad, a passionate Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or problem solving.
+I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or problem solving.
 
 ☕&emsp;Connect with me!
 
