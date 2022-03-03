@@ -1,5 +1,5 @@
 
-![Github Banner](assets/banner.png)
+![Github Banner](assets/banner.jpg)
 
 ## Hi there my gorgeous friend 👋
 
@@ -59,7 +59,7 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sazzad4677.visitor-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsazzad4677%2Fsazzad4677&label=VISITORS&countColor=%23d9e3f0&style=flat)
 
 #### Github Stats
 
