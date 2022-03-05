@@ -63,4 +63,4 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
 
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=sazzad4677&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
+![sazzad4677's github stats](https://github-readme-stats.vercel.app/api?username=sazzad4677&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
