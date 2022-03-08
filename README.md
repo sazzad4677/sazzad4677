@@ -44,9 +44,9 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
       <td>Jun 20, 2020 - Jun 25, 2020</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/sazzad4677/Wild-Tiger-Wheels">Wild Tiger Wheels</a></td>
-      <td>A single-page responsive destination search system based on vehicles.</td>
-      <td>Jun 03, 2020 - Jun 08, 2020</td>
+      <td><a href="https://github.com/sazzad4677/Interactive-comments-section">Interactive comments section</a></td>
+      <td>This project is a part of frontend mentor coding challange</td>
+      <td>Mar 05, 2022 - Mar 08, 2022</td>
     </tr>
     <tr>
       <td><a href="https://github.com/sazzad4677/node-js-practice">Weather APP</a></td>
