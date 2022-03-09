@@ -1,4 +1,5 @@
 
+
 ![Github Banner](assets/banner.jpg)
 
 ## Hi there my gorgeous friend 👋
@@ -25,11 +26,11 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
 ### My Projects
 
   <table>
-  <thead >
-    <tr border: none;>
-      <td><b>Projects Repo</b></td>
-      <td><b>Description</b></td>
-      <td><b>Start-End</b></td>
+  <thead>
+    <tr>
+      <td  style="width:30%"><b>Projects Repo</b></td>
+      <td style="width:40%"><b>Description</b></td>
+      <td style="width:30%"><b>Start-End</b></td>
     </tr>
   </thead>
   <tbody>
