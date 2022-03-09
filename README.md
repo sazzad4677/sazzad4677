@@ -25,7 +25,7 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
 
 ### My Projects
 
-  <table>
+  <table style="width:100%">
   <thead>
     <tr>
       <td  style="width:30%"><b>Projects Repo</b></td>
