@@ -1,4 +1,17 @@
-
+<style> 
+  table {
+    width: 100%
+  }
+  .name{
+    width: 20%
+  }
+  .description{
+    width: 50%
+  }
+  .timeline{
+    width: 30%
+  }
+</style>
 
 ![Github Banner](assets/banner.jpg)
 
@@ -25,12 +38,12 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
 
 ### My Projects
 
-  <table style="width:100%">
+  <table>
   <thead>
     <tr>
-      <td  style="width:30%"><b>Projects Repo</b></td>
-      <td style="width:40%"><b>Description</b></td>
-      <td style="width:30%"><b>Start-End</b></td>
+      <td class="name"><b>Projects Repo</b></td>
+      <td class="description"><b>Description</b></td>
+      <td class="timeline"><b>Start-End</b></td>
     </tr>
   </thead>
   <tbody>
