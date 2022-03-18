@@ -50,6 +50,11 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
       <td>Mar 05, 2022 - Mar 08, 2022</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/sazzad4677/cutly-frontend">Cutly - Link Shortner</a></td>
+      <td>Shorten any valid URL</td>
+      <td>Mar 12, 2022 - Mar 15,2022</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/sazzad4677/node-js-practice">Weather APP</a></td>
       <td>Node js based api call</td>
       <td>Sep 17, 2021 - Sep 17, 2021</td>
