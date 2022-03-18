@@ -43,7 +43,7 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
       <td><a href="https://github.com/sazzad4677/Go-Study-Client" target="_blank">Go Study</a></td>
       <td>This is a student and teacher demonstration project where the instructor may develop courses and display them on the home page. A site administrator who can log in and add another administrator or instructor to the database.</td>
       <td>Jun 20, 2020 - Jun 25, 2020</td>
-    </tr>
+    </tr> 
     <tr>
       <td><a href="https://github.com/sazzad4677/Interactive-comments-section">Interactive comments section</a></td>
       <td>This project is a part of frontend mentor coding challange</td>
