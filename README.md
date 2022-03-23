@@ -1,6 +1,6 @@
 
 
-![Github Banner](assets/banner.jpg)
+![Github Banner](assets/banner.png)
 
 ## Hi there my friend
 
