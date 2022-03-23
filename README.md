@@ -2,20 +2,20 @@
 
 ![Github Banner](assets/banner.jpg)
 
-## Hi there my gorgeous friend 👋
+## Hi there my friend
 
-I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or problem solving.
+I'm [Sazzad](https://www.sazzad.dev), a passionate Web Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or problem solving.
 
 ☕&emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sazzad795/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sazzad4673/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sazzad4677) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazzad4677@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sazzad795/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sazzad4673/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sazzad4677) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazzadhossain724@gmail.com)
 
 :heart: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp; I’m currently learning React-Native<br/>
 :e-mail: &emsp;How to reach me: sazzad4677@gmail.com.<br/>
 ⚡ &emsp;Fun fact:  I really love to travel and explore new things in my free time.<br/>
-📝&emsp; Please have a look at my [Resume](https://drive.google.com/file/d/1NjKYBJOjla9JdHdTLZt1_NFP8H_TfhAj/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📝&emsp; Please have a look at my [Resume](https://drive.google.com/file/d/1_FcR5vrWgUlW2g3MoeZN_uRtMC5Cfnq5/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 #### Things I code with
@@ -44,15 +44,15 @@ I'm Sazzad, a passionate Web Developer from <img src="https://upload.wikimedia.o
       <td>This is a student and teacher demonstration project where the instructor may develop courses and display them on the home page. A site administrator who can log in and add another administrator or instructor to the database.</td>
       <td>Jun 20, 2020 - Jun 25, 2020</td>
     </tr> 
+     <tr>
+      <td><a href="https://github.com/sazzad4677/cutly-frontend">Cutly - Link Shortner</a></td>
+      <td>Shorten any valid URL</td>
+      <td>Mar 12, 2022 - Mar 15,2022</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/sazzad4677/Interactive-comments-section">Interactive comments section</a></td>
       <td>This project is a part of frontend mentor coding challange</td>
       <td>Mar 05, 2022 - Mar 08, 2022</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/sazzad4677/cutly-frontend">Cutly - Link Shortner</a></td>
-      <td>Shorten any valid URL</td>
-      <td>Mar 12, 2022 - Mar 15,2022</td>
     </tr>
     <tr>
       <td><a href="https://github.com/sazzad4677/node-js-practice">Weather APP</a></td>
