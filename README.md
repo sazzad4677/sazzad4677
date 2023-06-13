@@ -15,7 +15,7 @@ I'm [Sazzad](https://www.sazzad.dev), a passionate Web Developer from <img src="
 🤔 &emsp; I’m currently learning React-Native<br/>
 :e-mail: &emsp;How to reach me: sazzad4677@gmail.com.<br/>
 ⚡ &emsp;Fun fact:  I really love to travel and explore new things in my free time.<br/>
-📝&emsp; Please have a look at my [Resume](https://drive.google.com/file/d/1AUzR807bZylIVFJogLWeAGsk_QuQGf8n/view) for more details about me. I'm open to feedback and suggestions!
+📝&emsp; Please have a look at my [Resume]([https://drive.google.com/file/d/1AUzR807bZylIVFJogLWeAGsk_QuQGf8n/view](https://drive.google.com/file/d/1ffycRhonZegQk2VJjfsa_g_AZAOj_5Xw/view?usp=drive_link)) for more details about me. I'm open to feedback and suggestions!
 
 
 #### Things I code with
