@@ -12,7 +12,7 @@ I'm [Sazzad](https://www.sazzad.dev), a passionate Web Developer from <img src="
 
 :heart: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp; I’m currently learning React-Native<br/>
+🤔 &emsp; I’m currently learning Typescript. [Have a look](https://github.com/sazzad4677/Learning-TypeScript)<br/>
 :e-mail: &emsp;How to reach me: sazzad4677@gmail.com.<br/>
 ⚡ &emsp;Fun fact:  I really love to travel and explore new things in my free time.<br/>
 📝&emsp; Please have a look at my [Resume](https://drive.google.com/file/d/1ffycRhonZegQk2VJjfsa_g_AZAOj_5Xw/view) for more details about me. I'm open to feedback and suggestions!
