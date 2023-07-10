@@ -62,6 +62,9 @@ I'm [Sazzad](https://www.sazzad.dev), a passionate Web Developer from <img src="
   </tbody>
 </table>
 
+#### Most Used Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad4677&layout=compact)
 
 #### Profile Visits
 
