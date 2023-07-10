@@ -66,10 +66,10 @@ I'm [Sazzad](https://www.sazzad.dev), a passionate Web Developer from <img src="
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad4677&layout=compact)
 
+#### Github Stats
+![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzad4677&show_icons=true&theme=transparent)
+
 #### Profile Visits
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsazzad4677%2Fsazzad4677&label=VISITORS&countColor=%23d9e3f0&style=flat)
 
-#### Github Stats
-
-![sazzad4677's github stats](https://github-readme-stats.vercel.app/api?username=sazzad4677&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
