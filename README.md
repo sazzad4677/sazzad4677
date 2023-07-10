@@ -62,12 +62,17 @@ I'm [Sazzad](https://www.sazzad.dev), a passionate Web Developer from <img src="
   </tbody>
 </table>
 
-#### Most Used Language
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex-basis: 48%;">
+    <h4>Most Used Language</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad4677&layout=compact" alt="Top Languages">
+  </div>
+  <div style="flex-basis: 48%;">
+    <h4>Github Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=sazzad4677&show_icons=true&theme=transparent" alt="GitHub Stats">
+  </div>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad4677&layout=compact)
-
-#### Github Stats
-![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzad4677&show_icons=true&theme=transparent)
 
 #### Profile Visits
 
