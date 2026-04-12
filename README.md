@@ -50,6 +50,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad4677&show_icons=true&locale=en&layout=compact" alt="sazzad4677" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterhstnt.vercel.app/api?username=sazzad4677&show_icons=true&theme=tokyonight" alt="Sazzad's Stats" />
+  <img src="https://github-readme-stats-git-masterhstnt.vercel.app/api/top-langs/?username=sazzad4677&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad4677&show_icons=true&locale=en" alt="sazzad4677" /></p>
