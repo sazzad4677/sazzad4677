@@ -49,8 +49,9 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstnt.vercel.app/api?username=sazzad4677&show_icons=true&theme=tokyonight" alt="Sazzad's Stats" />
-  <img src="https://github-readme-stats-git-masterhstnt.vercel.app/api/top-langs/?username=sazzad4677&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="Sazzad's Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
