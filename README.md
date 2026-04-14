@@ -49,7 +49,6 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <p align="center">
   <img src="./profile/stats.svg" alt="Sazzad's Stats" />
   <img src="./profile/top-langs.svg" alt="Top Languages" />
