@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.README_STATS_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       # 1. Generate the Top Languages Card
       - name: Generate Top Languages card
@@ -25,7 +25,7 @@ jobs:
           # Customize options here (e.g., layout=compact, theme=dark)
           options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6" 
           path: profile/top-langs.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       # 2. Generate the Main Stats Card (Optional, if you use it)
       - name: Generate Main Stats card
@@ -34,7 +34,7 @@ jobs:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true"
           path: profile/stats.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       # 3. Commit and push the generated SVGs back to the repo
       - name: Commit and push cards
